@@ -5,7 +5,7 @@ This application:
 - Remembers your user name for other regions if "remember me" was selected.
 - Automatically runs League of Legends.
 
-1.) Upon creating, place the .exe file in your Riot Games/League of Legends folder.
+1.) Upon creating, place the .exe file in your Riot Games/League of Legends folder. Under releases you can download the executable itself.
 
 2.) Run and select your region of choice by selecting the appropriate number.
 
